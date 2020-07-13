@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackGroundOperation</string>
+    <string name="channel_name">My Channel</string>
+    <string name="channel_description">My Not Desc</string>
+</resources>
